@@ -1,0 +1,11 @@
+kind,tag,building,location,type,date,passed,note
+extinguisher,FE-01,Building A,Lobby,ABC,,,
+extinguisher,FE-02,Building A,Mechanical Room 1,ABC,,,
+extinguisher,FE-03,Building B,Loading Dock,CO2,,,
+extinguisher,FE-04,Building B,Kitchen,K-Class,,,
+extinguisher,FE-05,Building C,Server Room,CO2,,,
+inspection,FE-01,,,,2026-11-03,yes,
+inspection,FE-02,,,,2026-09-28,yes,
+inspection,FE-03,,,,2026-11-05,no,Pressure gauge in the red
+inspection,FE-04,,,,2026-10-20,yes,
+inspection,FE-04,,,,2026-11-10,yes,
