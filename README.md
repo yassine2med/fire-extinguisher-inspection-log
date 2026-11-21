@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="fire-extinguisher-inspection-log" width="100%"></p>
+
 # fire-extinguisher-inspection-log
 
 Keeps a SQLite log of fire extinguisher inspections and reports failed, never inspected and overdue units.
