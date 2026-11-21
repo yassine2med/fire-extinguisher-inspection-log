@@ -2,6 +2,8 @@
 
 # fire-extinguisher-inspection-log
 
+[![CI](https://github.com/yassine2med/fire-extinguisher-inspection-log/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/fire-extinguisher-inspection-log/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Keeps a SQLite log of fire extinguisher inspections and reports failed, never inspected and overdue units.
 
 ![Screenshot](docs/screenshot.png)
